@@ -6,11 +6,11 @@ become a full stack developer in the future.
 Currently I’m working on my first getcoding project. Check it out here! https://emilyamartin.github.io/Side-Scroller-Game-/
 
 🚀 Tech Stack
-HTML
-CSS
-Javascript
-Figma 
-Adobe 
+- HTML
+- CSS
+- Javascript
+- Figma 
+- Adobe 
 
 🔗 Contact 
 Linked In 
