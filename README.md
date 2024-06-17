@@ -12,8 +12,5 @@ Currently I’m working on my first get coding project. Check it out here! https
 - Figma 
 - Adobe 
 
-🔗 Contact 
-Linked In 
-
 
 
