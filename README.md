@@ -1,9 +1,8 @@
-👋 Hi, I’m Emily!
-I’m a visual artist and software development student at Get Building. I’ve had a lifelong passion for art, photography and film. 
-Since I’m at my happiest when I can design, problem solve and create i've recently became interested in coding and aspire to 
-become a full stack developer in the future. 
+👋 Hi, I'm Emily! I'm a visual artist and software development student at Get Building. With a lifelong passion for art and film, 
+I love problem-solving and creating new things. Recently, I’ve developed an interest in coding and aspire to become a full-stack 
+developer in the near future. Follow me on GitHub for my most recent projects.
 
-Currently I’m working on my second get coding project. Check it out here! https://emilyamartin.github.io/art-inventory/
+Currently I’m working on my second get building project. Check it out here! https://emilyamartin.github.io/art-inventory/
 
 🚀 Tech Stack
 - React JS
