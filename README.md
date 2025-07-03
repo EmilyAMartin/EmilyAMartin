@@ -5,6 +5,7 @@ developer in the near future. Follow me on GitHub for my most recent projects.
 Currently I’m working on my second get building project. Check it out here! https://emilyamartin.github.io/art-inventory/
 
 🚀 Tech Stack
+- MySQL
 - React JS
 - HTML
 - CSS
